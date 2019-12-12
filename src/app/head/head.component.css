@@ -1,0 +1,109 @@
+.Header-old{
+    z-index: 32;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    color: rgba(255, 255, 255, 0.7);
+    background-color: rgb(36, 41, 46);
+}
+.page-responsive .HeaderMenu--logged-out .header-search-wrapper {
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+.header-search-wrapper {
+    display: table;
+    width: 100%;
+    max-width: 100%;
+    font-size: inherit;
+    font-weight: 400;
+    color: rgb(255, 255, 255);
+    vertical-align: middle;
+    background-color: rgba(255, 255, 255, 0.125);
+    box-shadow: none;
+    padding: 0px;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+.input-sm {
+    min-height: 28px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    font-size: 12px;
+    line-height: 20px;
+}
+label{
+    font-weight: 600;
+    cursor: default;
+}
+.header-search-input {
+    display: table-cell;
+    width: 100%;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    font-size: inherit;
+    color: inherit;
+    box-shadow: none;
+    background: none;
+    border-width: 0px;
+    border-style: initial;
+    border-color: initial;
+    border-image: initial;
+}
+input {
+    -webkit-writing-mode: horizontal-tb !important;
+    text-rendering: auto;
+    color: initial;
+    letter-spacing: normal;
+    word-spacing: normal;
+    text-transform: none;
+    text-indent: 0px;
+    text-shadow: none;
+    display: inline-block;
+    text-align: start;
+    -webkit-appearance: textfield;
+    background-color: white;
+    -webkit-rtl-ordering: logical;
+    cursor: text;
+    margin: 0em;
+    font: 400 13.3333px Arial;
+    padding: 1px 0px;
+    border-width: 2px;
+    border-style: inset;
+    border-color: initial;
+    border-image: initial;
+}
+.page-responsive .HeaderMenu-link {
+    color: rgb(68, 77, 86);
+    background: transparent;
+}
+.HeaderMenu-link {
+    color: rgb(255, 255, 255);
+    background: transparent;
+    transition: all 0.4s ease 0s;
+}
+a.HeaderMenu-link.d-inline-block.no-underline.border.border-gray-dark.rounded-1.px-2.py-1{
+    display: inline-block !important;
+    text-decoration: none !important;
+    padding-right: 8px !important;
+    padding-left: 8px !important;
+    padding-top: 4px !important;
+    padding-bottom: 4px !important;
+    border-color: rgb(209, 213, 218) !important;
+    border-radius: 3px !important;
+}
+.border {
+    border-width: 1px !important;
+    border-style: solid !important;
+    border-color: rgb(225, 228, 232) !important;
+    border-image: initial !important;
+}
+svg.icon-chevon-down-mktg.position-absolute.position-lg-relative{
+    top: -2px;
+    width: 12px;
+    stroke: rgba(255, 255, 255, 0.5);
+    background: transparent;
+
+}

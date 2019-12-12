@@ -1,0 +1,30 @@
+.navbar{
+    justify-content: space-between;
+    padding-top: 1rem;
+    color: rgba(255, 255, 255, 0.7);
+    background: #24292E;
+}
+span{
+    padding-right: 1rem;
+}
+.a{
+    color: rgba(255, 255, 255, 0.7);
+}
+th.mat-sort-header-sorted {
+    color: black;
+  }
+.data-table{
+    margin-top: 40px;
+    width: 80%;
+    margin-left: 100px;
+}
+
+.dashboard{
+    color: rgba(255, 255, 255, 0.7);
+}
+.mat-form-field {
+    font-size: 14px;
+    width: 10%;
+    float: right;
+    margin-bottom: 10px;
+  }
